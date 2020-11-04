@@ -28,6 +28,6 @@ As of November 2020, it took me around 3.5 hours to update and analyse my expens
 **Step 4: Perform further data clean-up and analysis manually**
 <p align="left">
   <kbd>
-    <img src="./step4.png" alt="income" height="500">
+    <img src="./step4.png" alt="clean and analyse data further" height="500">
   </kbd>
 </p>
